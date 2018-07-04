@@ -6,6 +6,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World !!! ");
+<<<<<<< HEAD
 		
 		int myIntValue = 5/3;
 		Float myFloatValue = 5f/3f;
@@ -16,6 +17,9 @@ public class HelloWorld {
 		System.out.println(myDoubleValue);
 		
 		
+=======
+		System.out.println("Hello World !!! ");
+>>>>>>> refs/remotes/origin/master
 	}
 
 }
